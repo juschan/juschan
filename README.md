@@ -1,6 +1,6 @@
 ### About Me
 
-I currently work in the insurance as a Senior Actuarial Data Scientist and teach Data Science at General Assembly. Yes, I'm a qualified Actuary, which also means using Random Forests and XGBoost to predict claims at the individual level with unique features and IBNR adjustments (and not just run your typical experience studies or GLMs). As part of risk management, that means balancing the needs of multiple parties when presenting data science insights. Jobs, sales commissions, profits and losses are all at stake when implementing that sexy new *auto-predictive underwriting system*.
+I currently work in the insurance as a Senior Actuarial Data Scientist and teach Data Science at General Assembly. Yes, I'm a qualified Actuary, which also means using Random Forests and XGBoost to predict claims at the individual level with unique features and IBNR adjustments (and not just run your typical experience studies or GLMs). As part of risk management, that means balancing the needs of multiple parties when presenting data science insights. Jobs, sales commissions, profits and losses are all at stake when implementing that _*sexy new predictive underwriting system*_.
 
 Part of the job is also career-coaching my aspiring data science students. They need all the help they can get for their mid-career switch and grow in confidence in their data science skills and knowledge.
 
